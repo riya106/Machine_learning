@@ -87,4 +87,4 @@ To build a strong foundation in Machine Learning concepts and gradually move tow
 
 **Riya Tyagi**  
 B.Tech CSE (AI/ML)  
-Learning Machine Learning step by step 🚀
+Learning Machine Learning step by step 
